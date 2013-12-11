@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+ <html lang="es">
+   <head>
+      <meta name="description" content="Ejemplo de HTML5">
+      <meta name="keywords" content="HTML5, CSS3, JavaScript">
+      <title>Practica 1</title>
+       </head>
+        <body>
+          <header>
+		  <h1><b>LIVE Entertainment</b></h1>
+          </header>
+           <hav>
+	   <img src="LIVE Entertainment.jpg"<a href="https://www.facebook.com/pages/LIVE-Entertainment/417370881651048"</a>/>
+           </hav>
+	   <article>
+	    <p>
+	    Producci&oacute;n de eventos # LIVE Entertainment<br>
+ 	    
+	    Servicio para todo tipo de eventos social y dem&aacute;s!<br>
+
+	    Dirección profesional para tu evento, Conocenos!<br> 
+
+	    Pregunta por paquetes y promociones.<br>
+
+	    <br><b> Disponemos a su servicio:</b><br>
+            </p>
+	    <lu>
+	      <li>Audio e Iluminacion</li>
+	      <li>DJs </li>
+              <li>Go-Go Dancers</li>
+	    </lu>
+   <p>
+   <br><b>Contactos:</b></br>
+   <a href="https://www.facebook.com/pages/LIVE-Entertainment/417370881651048">ir al Facebok</a> 
+   
+   </p> 
+		 
+            
+
+	   </article>
+	   <table border="5">
+ <tr> <th> Nombre </th>
+      <th> Domicilio</th>
+      <th> telefono </th>
+</tr>
+ <tr>  <td> Jonathan Ramirez </th>
+       <td>Calle Hidalgo #729 </th> 
+       <td> 3312866148</td>
+</tr>
+  <tr> <td> DJ NAVI SOUND </td>
+       <td> calle Romo#123</td>
+      <td> 3318253425</td>
+   </tr>
+   <tr> <td> Debii Garciia </td>
+        <td> Pepino #23</td>
+        <td>3318353646</td>
+  </tr>
+  <tr> <td> Marco HDZ</td>
+       <td> altamira #2022</td>
+       <td>36255456</td>
+ </tr>
+ <tr>  <td> MiiNii</td>
+       <td> Rinconada las Lomas</td>
+       <td>331835836</td>
+</table>
+         <footer>
+            <small>
+		    DJ NAVI SOUND
+                Copyright &copy; 2013<br/>
+                Actualizado en: 30 Agosto 2013           
+            </small>        
+        </footer>	   
+	   </body>
+</html>
